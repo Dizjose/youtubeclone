@@ -4,6 +4,10 @@ Aplicación web responsive inspirada en YouTube, desarrollada con **HTML, CSS y 
 
 Este proyecto fue creado como práctica para mejorar habilidades de frontend, manipulación del DOM y organización del código utilizando ES Modules.
 
+## Preview
+
+![YouTube Clone Preview](assets/preview/preview.png)
+
 ---
 
 ## Características
